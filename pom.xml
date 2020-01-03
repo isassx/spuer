@@ -219,7 +219,7 @@
 
         <alibaba-nacos.version>2.1.0.RELEASE</alibaba-nacos.version>
         <!--<netty.version>4.1.15.Final</netty.version>-->
-        <netty.version>4.1.36.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
 
         <super-core.version>super.1.1.0-SNAPSHOT</super-core.version>
         <core-protobuf.version>super.1.1.0-SNAPSHOT</core-protobuf.version>
