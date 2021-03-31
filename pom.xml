@@ -263,7 +263,7 @@
 
         <disruptor.version>3.4.2</disruptor.version>
 
-        <guava.version>26.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
 
         <swagger.version>2.9.2</swagger.version>
         <swagger-bootstrap-ui.version>1.9.5</swagger-bootstrap-ui.version>
